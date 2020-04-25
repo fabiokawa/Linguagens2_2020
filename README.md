@@ -1,1 +1,1 @@
-# Linguagens2_2020
+# Repositório para entregas de aula da disciplina ECM252-Linguagens de Programação II
